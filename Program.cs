@@ -58,4 +58,4 @@ class Program
 // Fin del programa.
 
 // Universidad Estatal Amazónica
-// Andrés Ponce M.
+// Tiffany Quiñonez Q.
